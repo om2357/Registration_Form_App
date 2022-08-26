@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "366146646544",
+    "project_id": "registration-form-78f60",
+    "storage_bucket": "registration-form-78f60.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:366146646544:android:c0362faa74e97355e5d095",
+        "android_client_info": {
+          "package_name": "com.ok.registrationform"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "366146646544-mub530ldef1q17nugspmucf8p663h4og.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ok.registrationform",
+            "certificate_hash": "d4b7341f0e097b03964a5024870c3dff5c5c7873"
+          }
+        },
+        {
+          "client_id": "366146646544-01nfat593dduijt7rt27iib0kue2jbm1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmxgRKogP9rkGLljegcLhaCo5yPUbePCo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "366146646544-01nfat593dduijt7rt27iib0kue2jbm1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
