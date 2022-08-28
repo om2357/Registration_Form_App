@@ -1,6 +1,7 @@
 # Registration_Form_App
 All user can Register there personal details and Store the data in this Application
 
+*This application also supported for dark theme as well as light theme
 
 
 
