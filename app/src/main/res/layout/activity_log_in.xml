@@ -7,18 +7,21 @@
     android:orientation="vertical"
     android:gravity="center_vertical"
     android:padding="15dp"
+
     tools:context=".LogIn">
 
     <com.google.android.material.card.MaterialCardView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         app:cardElevation="10dp"
+
         app:cardCornerRadius="10dp">
         <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:gravity="center_horizontal"
             android:padding="10dp"
+
             android:orientation="vertical">
 
             <TextView
@@ -27,8 +30,8 @@
                 android:text="@string/student_details"
                 android:textSize="25sp"
                 android:textStyle="bold"
-                android:layout_marginTop="10dp"
-                android:textColor="@color/black"/>
+                android:layout_marginTop="10dp"/>
+
 
             <TextView
                 android:id="@+id/name"
@@ -36,8 +39,8 @@
                 android:layout_height="match_parent"
                 android:text="Name : Demo Name"
                 android:textSize="20sp"
-                android:layout_marginTop="10dp"
-                android:textColor="@color/black"/>
+                style="@style/TextAppearance.AppCompat.Medium"
+                android:layout_marginTop="10dp" />
 
             <TextView
             android:id="@+id/phone"
@@ -46,7 +49,7 @@
             android:text="Phone : Demo Phone"
             android:textSize="20sp"
             android:layout_marginTop="10dp"
-            android:textColor="@color/black"/>
+                style="@style/TextAppearance.AppCompat.Medium"/>
 
             <TextView
             android:id="@+id/emailLog"
@@ -55,7 +58,7 @@
             android:text="Demo : Email"
             android:textSize="20sp"
             android:layout_marginTop="10dp"
-            android:textColor="@color/black"/>
+                style="@style/TextAppearance.AppCompat.Medium"/>
 
         </LinearLayout>
     </com.google.android.material.card.MaterialCardView>

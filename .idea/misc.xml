@@ -3,10 +3,31 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/omk23/AndroidStudioProjects/Registrationform/app/src/main/res/drawable-night/background.xml" value="0.1" />
+        <entry key="..\:/Users/omk23/AndroidStudioProjects/Registrationform/app/src/main/res/drawable-night/background_d_l.xml" value="0.1" />
+        <entry key="..\:/Users/omk23/AndroidStudioProjects/Registrationform/app/src/main/res/drawable-night/background_light.xml" value="0.1" />
+        <entry key="..\:/Users/omk23/AndroidStudioProjects/Registrationform/app/src/main/res/drawable-night/backgroundd.xml" value="0.1745" />
+        <entry key="..\:/Users/omk23/AndroidStudioProjects/Registrationform/app/src/main/res/drawable-night/custom_input.xml" value="0.1745" />
+        <entry key="..\:/Users/omk23/AndroidStudioProjects/Registrationform/app/src/main/res/drawable-night/ic_baseline_email_24.xml" value="0.1745" />
+        <entry key="..\:/Users/omk23/AndroidStudioProjects/Registrationform/app/src/main/res/drawable-night/ic_baseline_lock_24.xml" value="0.1745" />
+        <entry key="..\:/Users/omk23/AndroidStudioProjects/Registrationform/app/src/main/res/drawable-night/ic_iphone_6__7__8_plus.xml" value="0.1745" />
+        <entry key="..\:/Users/omk23/AndroidStudioProjects/Registrationform/app/src/main/res/drawable-night/ic_iphone_6__7__8_plus___1__1_.xml" value="0.1745" />
+        <entry key="..\:/Users/omk23/AndroidStudioProjects/Registrationform/app/src/main/res/drawable-night/lock.xml" value="0.1755" />
+        <entry key="..\:/Users/omk23/AndroidStudioProjects/Registrationform/app/src/main/res/drawable-night/text_color.xml" value="0.1" />
+        <entry key="..\:/Users/omk23/AndroidStudioProjects/Registrationform/app/src/main/res/drawable-notnight/lock.xml" value="0.1745" />
+        <entry key="..\:/Users/omk23/AndroidStudioProjects/Registrationform/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1605" />
+        <entry key="..\:/Users/omk23/AndroidStudioProjects/Registrationform/app/src/main/res/drawable/background_d_l.xml" value="0.1" />
+        <entry key="..\:/Users/omk23/AndroidStudioProjects/Registrationform/app/src/main/res/drawable/background_light.xml" value="0.1" />
         <entry key="..\:/Users/omk23/AndroidStudioProjects/Registrationform/app/src/main/res/drawable/custom_btn.xml" value="0.1" />
         <entry key="..\:/Users/omk23/AndroidStudioProjects/Registrationform/app/src/main/res/drawable/custom_input.xml" value="0.1" />
         <entry key="..\:/Users/omk23/AndroidStudioProjects/Registrationform/app/src/main/res/drawable/custum_input.xml" value="0.13333333333333333" />
+        <entry key="..\:/Users/omk23/AndroidStudioProjects/Registrationform/app/src/main/res/drawable/custum_input_dark.xml" value="0.1745" />
+        <entry key="..\:/Users/omk23/AndroidStudioProjects/Registrationform/app/src/main/res/drawable/ic_baseline_email_24.xml" value="0.1755" />
+        <entry key="..\:/Users/omk23/AndroidStudioProjects/Registrationform/app/src/main/res/drawable/ic_baseline_lock_24.xml" value="0.1755" />
+        <entry key="..\:/Users/omk23/AndroidStudioProjects/Registrationform/app/src/main/res/drawable/ic_iphone_6__7__8_plus___1__1_.xml" value="0.1755" />
         <entry key="..\:/Users/omk23/AndroidStudioProjects/Registrationform/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1755" />
+        <entry key="..\:/Users/omk23/AndroidStudioProjects/Registrationform/app/src/main/res/drawable/lock.xml" value="0.1745" />
+        <entry key="..\:/Users/omk23/AndroidStudioProjects/Registrationform/app/src/main/res/drawable/text_color.xml" value="0.1" />
         <entry key="..\:/Users/omk23/AndroidStudioProjects/Registrationform/app/src/main/res/layout/activity_log_in.xml" value="0.16666666666666666" />
         <entry key="..\:/Users/omk23/AndroidStudioProjects/Registrationform/app/src/main/res/layout/activity_main.xml" value="0.25" />
         <entry key="..\:/Users/omk23/AndroidStudioProjects/Registrationform/app/src/main/res/layout/activity_register.xml" value="0.16666666666666666" />
