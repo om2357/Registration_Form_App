@@ -27,10 +27,10 @@ class RegisterActivity : AppCompatActivity() {
 
         Countinue.setOnClickListener{
             if (checking()){
-                var name = Name.text.toString()
-                var email = EmailRegister.text.toString()
-                var password = PasswordRegister.text.toString()
-                var phone = Phonee.text.toString()
+                val name = Name.text.toString()
+                val email = EmailRegister.text.toString()
+                val password = PasswordRegister.text.toString()
+                val phone = Phonee.text.toString()
 
                 val user = hashMapOf(
                     "Name" to name,

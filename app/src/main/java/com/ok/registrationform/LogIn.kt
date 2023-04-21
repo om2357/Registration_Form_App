@@ -16,9 +16,9 @@ import kotlinx.android.synthetic.main.activity_log_in.*
 
         supportActionBar?.hide()
 
-        val sharedPref = this?.getPreferences(Context.MODE_PRIVATE)?:return
+        val sharedPref = this.getPreferences(Context.MODE_PRIVATE) ?:return
 
-         val spEmail = sharedPref.getString("Email","1")
+//         val spEmail = sharedPref.getString("Email","1")
         val isLogIn = sharedPref.getString("Email","1")
         logout.setOnClickListener{
             sharedPref.edit().remove("Email").apply()
@@ -27,10 +27,10 @@ import kotlinx.android.synthetic.main.activity_log_in.*
             finish()
         }
 
-        var Users =
+
 
         if(isLogIn == "1"){
-            var email = intent.getStringExtra("email")
+            val email = intent.getStringExtra("email")
 
             if (email!= null){
                 setText(email)
@@ -41,7 +41,7 @@ import kotlinx.android.synthetic.main.activity_log_in.*
                 }
             }
             else{
-                var intent = Intent(this, MainActivity::class.java)
+                val intent = Intent(this, MainActivity::class.java)
                 startActivity(intent)
                 finish()
             }

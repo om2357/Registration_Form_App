@@ -3,4 +3,14 @@
     <string name="student_detail">Student Detail</string>
     <string name="student_details">Student Details</string>
     <string name="login_to_countinue">Login To Countinue</string>
+    <string name="name">Name</string>
+    <string name="phone">phone</string>
+    <string name="password">Password</string>
+    <string name="enter_student_details">Enter Student Details</string>
+    <string name="email">Email</string>
+    <string name="name_demo_name">Name : Demo Name</string>
+    <string name="phone_demo_phone">Phone : Demo Phone</string>
+    <string name="demo_email">Demo : Email</string>
+    <string name="log_out">Log out</string>
+    <string name="countinue">Countinue</string>
 </resources>

@@ -29,7 +29,7 @@ class MainActivity : AppCompatActivity() {
                     .addOnCompleteListener(this){
                         task->
                         if(task.isSuccessful){
-                            var intent = Intent(this, LogIn::class.java)
+                            val intent = Intent(this, LogIn::class.java)
                             intent.putExtra("email", email)
                             startActivity(intent)
                             finish()
